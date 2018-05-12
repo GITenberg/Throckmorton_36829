@@ -1,0 +1,33 @@
+_repo: Throckmorton_36829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seawell, Molly Elliot
+    alias: Seawell, M. Elliot (Molly Elliot)
+    birthdate: 1860
+    deathdate: 1916
+    gutenberg_agent_id: '7754'
+    url: http://www.gutenberg.org/2009/agents/7754
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Molly_Elliot_Seawell
+    - http://www.gutenberg.org/ebooks/author/43099
+description: ''
+gutenberg_issued: '2011-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Social life and customs -- Fiction'
+- !lcsh 'Sisters-in-law -- Fiction'
+- !lcsh 'Southern States -- History -- 1865-1877 -- Fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Veterans -- Fiction'
+- !lcc 'PS'
+title: 'Throckmorton: A Novel'
+url: http://www.gutenberg.org/ebooks/36829
